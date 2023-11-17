@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MainCar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MainCar\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkKeys()
+comment2.text=\r\n\r\n\ Controls\ movement\ of\ MainCar.\ Buttons\ "A"\ and\ "D"\ are\ use\ for\ steering,\ while\ "W"\ and\ "S"\ are\ used\ for\ forward\ and\ backward\ movement.\ "L"\ is\ used\ as\ a\ turbo\ mode\ toggle.\r\n
+comment3.params=
+comment3.target=void\ carIsTouchingObjects()
+comment3.text=\r\n\r\n\ If\ MainCar\ touches\ any\ of\ the\ objects\ listed\ below,\ it\ will\ get\ removed\ from\ the\ World.\r\n
+comment4.params=
+comment4.target=void\ stopGame()
+comment4.text=\r\n\r\n\ Listed\ below\ are\ two\ different\ ways\ of\ pausing\ the\ game.\r\n
+numComments=5
