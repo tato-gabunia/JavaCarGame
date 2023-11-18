@@ -1,4 +1,4 @@
-![gif](https://github.com/tato-gabunia/JavaCarGame/blob/main/demo.gif)
+Demo: https://github.com/tato-gabunia/JavaCarGame/blob/main/demo.gif
 
 A racing car game written in Java using the Greenfoot IDE.
 
