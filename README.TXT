@@ -1,4 +1,4 @@
-![](demo.gif)
+![gif](demo.gif)
 
 A racing car game written in Java using the Greenfoot IDE.
 
