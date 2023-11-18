@@ -1,4 +1,4 @@
-![](https://github.com/JavaCarGame/blob/main/demo.gif)
+![](demo.gif)
 
 A racing car game written in Java using the Greenfoot IDE.
 
