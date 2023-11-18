@@ -1,9 +1,6 @@
-![Logo](https://github.com/tato-gabunia/JavaCarGame/blob/main/demo.gif)
+<div align="center">
+<img src="https://i.postimg.cc/htZzVxXv/demo.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-## Demo: https://github.com/tato-gabunia/JavaCarGame/blob/main/demo.gif
-
-## A racing car game written in Java using the Greenfoot IDE.
-
-## Download Greenfoot in order to be able to play the game.
-
-## https://www.greenfoot.org/download
+### <div align="center"></div>
